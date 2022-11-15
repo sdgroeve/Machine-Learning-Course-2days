@@ -6,7 +6,7 @@ You can fork this to your own repository to obtain a working copy.
 
 Each notebook contains a button to run the code in Google Colaboratory.
 
-The lectures can be watched [on Youtube](https://www.youtube.com/playlist?list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e).
+The lectures can be watched [on Youtube](https://www.youtube.com/playlist?list=PLv5LrvIzDSWZXAyIJmXgQ-ezCFELN8b5e). More lecture can be found [here](https://www.youtube.com/playlist?list=PLXxp6nsBenSWGYnoZjCGCQ0tGdg7bI3na).
 
 You will enjoy competing against each other to fit the best performing model in [the Kaggle competition](https://www.kaggle.com/c/a-tour-of-machine-learning-2021).
 
